@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 
 const FormField = () => {
   return (
@@ -6,4 +6,4 @@ const FormField = () => {
   )
 }
 
-export default FormField
+export default FormField;
